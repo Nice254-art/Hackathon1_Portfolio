@@ -77,6 +77,3 @@ This portfolio is designed to highlight Shanice's background in software enginee
 
 ---
 
-## Known Issues
-
-- Some email spans in the About section have minor syntax errors and should be fixed for proper display. For example:
