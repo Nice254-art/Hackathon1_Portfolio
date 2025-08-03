@@ -1,6 +1,6 @@
 # Portfolio - Shanice Akinyi Oduor
 
-This is a personal portfolio website for Shanice Akinyi Oduor, a Junior Software Engineer. The website showcases her professional profile, skills, resume, and contact information.
+This is a personal portfolio website for Shanice Akinyi Oduor, a Junior Software Engineer.Can be accessed using the link https://thriving-moxie-759ce2.netlify.app/#home .The website showcases her professional profile, skills, resume, and contact information.
 
 ---
 
